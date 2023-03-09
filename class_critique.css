@@ -1,0 +1,207 @@
+.heading1 {
+	color: black; 
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	margin: auto;
+    height: 200px;
+    width: 900px;
+	font-size: 80px;
+	text-align: center;
+}
+
+.bodytext1 {
+    height: 270px;
+    width: 770px;
+	margin-left: 840px; 
+	font-size: 23px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+
+.brainimage { 
+text-align: center!important; 
+position: relative
+}
+
+.image1 {
+	position: relative; 
+}
+
+.image2 {
+	position: absolute; 
+	left: 270px;
+	top: 100px;
+}
+
+.imgpopup {
+	transition: transform .5s;
+}
+.imgpopup:hover {
+	transform: scale(2.5);
+}
+
+.front {
+	z-index: 6; 
+}
+
+.front:hover {
+	z-index: 1; 
+}
+
+.designstudent {
+	z-index: 2;
+}
+
+.designstudent:hover {
+	z-index: 7;
+}
+
+.lipsgraphic { 
+text-align: center!important; 
+position: relative
+}
+
+.lipsimage1 {
+	position: relative; 
+}
+
+.lipsimage2 {
+	position: absolute; 
+	left: 0px;
+	top: 0px;
+}
+
+.lipsfront {
+	z-index: 6; 
+}
+
+.lipsfront:hover {
+	z-index: 1; 
+}
+
+.lipsgraphicc {
+	z-index: 2;
+}
+
+.lipsgraphicc:hover {
+	z-index: 7;
+}
+
+.content2 {
+	 height: 50px;
+     width: 900px;
+}
+
+.spacebox {
+	text-align: center
+}.bodytext
+
+.Footer {
+	color: black; 
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; 
+	margin: auto;
+    width: 1000px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.footer {
+	color: black; 
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; 
+	margin: auto;
+    width: 1500px;
+	font-size: 30px;
+	text-align: center;
+	line-height: 13px;
+}
+
+.imgmap {
+	text-align: right; 
+}
+
+.imgmap {
+	position: relative; 
+	z-indes: 6; 
+	transition-duration: 0.2s;	
+}
+
+.imgmap:hover{
+	position: relative; 
+	z-index: 6;
+	filter:drop-shadow(0 0 14px #FFFFFF);
+}
+
+.orangebutton {
+	border-radius:30px; 
+	background-color: #F6A037; 
+	font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', 'sans-serif'; 
+	font-size:25px;
+	height: 80px; 
+	width: 250px; 
+}
+
+.imgmap {
+	text-align: right; 
+	margin-right: 40px; 
+}
+
+.bodytext2 {
+	height: 190px;
+    width: 550px;
+	margin-left: 100px; 
+	margin-top: -460px;
+	font-size: 23px; 
+	margin-bottom: 100px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+.how2prepare {
+	width: 500px;
+	height: -200px; 
+	margin-top: 160px; 
+	margin-bottom: -328px;
+	text-align:left; 
+	color: black; 
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 22px;
+	margin-left: 255px;
+	placement: fixed; 
+}
+
+.preparegraphic {	
+	text-align: center; 
+}
+
+.DoDont {
+text-align: center!important; 
+}
+
+.fist {
+	text-align: right;
+	margin-top: -600px; 
+	margin-bottom: 200px;
+	margin-right: 150px;
+}
+
+.how2improve {
+	margin-bottom: 80px;
+}
+
+.homebutton {
+	text-align:right;
+	margin-right: 80px;
+}
+
+
+.homebutton {
+	position: relative; 
+	z-indes: 6; 
+	transition-duration: 0.2s;
+}
+
+.homebutton:hover{
+	position: relative; 
+	z-index: 6;
+	filter:drop-shadow(0 0 14px #FFFFFF);
+}
+
+.checkitout {
+	text-align: center;
+}
